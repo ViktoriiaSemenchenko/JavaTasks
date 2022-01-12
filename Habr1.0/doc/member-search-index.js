@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ua.com.toryzhel.habr","c":"Program","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ua.com.toryzhel.habr","c":"Program","l":"Program()","u":"%3Cinit%3E()"}];updateSearchResults();
